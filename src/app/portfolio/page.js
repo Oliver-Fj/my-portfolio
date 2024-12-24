@@ -33,7 +33,7 @@ const proyectos = [
         categoria: 'Desarrollo Web',
         descripcion: 'Plataforma de comercio electrónico con integración de pagos y gestión de inventario.',
         tecnologias: ['Next.js', 'Node.js', 'MongoDB', 'Stripe'],
-        imagen: '/proyecto1.webp',
+        imagen: '/my-portfolio/proyecto1.webp',
         enlace: '#'
     },
     {
@@ -42,7 +42,7 @@ const proyectos = [
         categoria: 'Aplicaciones Web',
         descripcion: 'Sistema de gestión de reservas para hoteles con soporte multilenguaje y notificaciones automáticas.',
         tecnologias: ['React', 'Firebase', 'Tailwind CSS'],
-        imagen: '/proyecto2.webp',
+        imagen: '/my-portfolio/proyecto2.webp',
         enlace: '#'
     },
     {
@@ -51,7 +51,7 @@ const proyectos = [
         categoria: 'Desarrollo Web',
         descripcion: 'Panel de control para análisis de datos con gráficos interactivos y reportes exportables.',
         tecnologias: ['React', 'TypeScript', 'Google Cloud'],
-        imagen: '/proyecto3.webp',
+        imagen: '/my-portfolio/proyecto3.webp',
         enlace: '#'
     },
     {
@@ -60,7 +60,7 @@ const proyectos = [
         categoria: 'Diseño Web',
         descripcion: 'Portafolio profesional con diseño responsivo y experiencia de usuario optimizada.',
         tecnologias: ['Next.js', 'Tailwind CSS', 'Figma'],
-        imagen: '/proyecto4.webp',
+        imagen: '/my-portfolio/proyecto4.webp',
         enlace: '#'
     },
     {
@@ -69,7 +69,7 @@ const proyectos = [
         categoria: 'Aplicaciones Web',
         descripcion: 'Aplicación web para gestión escolar, incluyendo registro de estudiantes, notas y asistencia.',
         tecnologias: ['Node.js', 'MongoDB', 'React'],
-        imagen: '/proyecto5.webp',
+        imagen: '/my-portfolio/proyecto5.webp',
         enlace: '#'
     },
     {
@@ -78,7 +78,7 @@ const proyectos = [
         categoria: 'Desarrollo Web',
         descripcion: 'Tienda de ropa online con filtros avanzados y pasarela de pagos segura.',
         tecnologias: ['Next.js', 'Stripe', 'TypeScript'],
-        imagen: '/proyecto6.webp',
+        imagen: '/my-portfolio/proyecto6.webp',
         enlace: '#'
     },
     {
@@ -87,7 +87,7 @@ const proyectos = [
         categoria: 'Aplicaciones Web',
         descripcion: 'Herramienta de colaboración en equipo para la gestión de tareas y seguimiento de proyectos.',
         tecnologias: ['React', 'Firebase', 'Google Cloud'],
-        imagen: '/proyecto7.webp',
+        imagen: '/my-portfolio/proyecto7.webp',
         enlace: '#'
     },
     {
@@ -96,7 +96,7 @@ const proyectos = [
         categoria: 'Desarrollo Web',
         descripcion: 'Sistema web para control y gestión de inventarios en tiempo real.',
         tecnologias: ['Node.js', 'MongoDB', 'React', 'Tailwind CSS'],
-        imagen: '/proyecto8.webp',
+        imagen: '/my-portfolio/proyecto8.webp',
         enlace: '#'
     }
 ];

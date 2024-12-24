@@ -10,7 +10,7 @@ export default function Hero() {
       {/* Imagen de fondo */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/hero-3d.svg"
+          src="/my-portfolio/my-portfolio/hero-3d.svg"
           alt="Hero Background"
           fill
           className="object-cover"

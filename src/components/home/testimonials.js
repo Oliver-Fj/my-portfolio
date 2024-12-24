@@ -10,7 +10,7 @@ const testimonials = [
       id: 1,
       name: 'María García',
       position: 'CEO de TechStart',
-      image: '/testimonials/maria.jpg',
+      image: '/my-portfolio/testimonials/maria.jpg',
       content: 'Exactamente lo que los fundadores necesitan. El curso más completo que existe, ¡me encantó! La mejor parte es que incluye marcos y plantillas.',
       socialLinks: {
         twitter: '#',
@@ -21,7 +21,7 @@ const testimonials = [
       id: 2,
       name: 'Carlos Ruiz',
       position: 'Fundador de EcoShop',
-      image: '/testimonials/carlos.webp',
+      image: '/my-portfolio/testimonials/carlos.webp',
       content: 'El equipo realmente sabe cómo ayudarte a enfocarte y actuar en tus principales prioridades. Son orientados a la acción y se basan en una experiencia empresarial muy diversa.',
       socialLinks: {
         twitter: '#',
@@ -32,7 +32,7 @@ const testimonials = [
       id: 3,
       name: 'Ana Martínez',
       position: 'Directora de CreativeMinds',
-      image: '/testimonials/ana.webp',
+      image: '/my-portfolio/testimonials/ana.webp',
       content: 'Su experiencia en dirección de empresas fue evidente desde los primeros minutos. En semanas me ayudaron a priorizar el enfoque en el trabajo más importante.',
       socialLinks: {
         twitter: '#',
@@ -43,7 +43,7 @@ const testimonials = [
       id: 4,
       name: 'Juan López',
       position: 'Director de Marketing de BrightAds',
-      image: '/testimonials/juan.webp',
+      image: '/my-portfolio/testimonials/juan.webp',
       content: 'Una experiencia transformadora. La metodología y el enfoque práctico han sido fundamentales para el crecimiento de nuestro proyecto.',
       socialLinks: {
         twitter: '#',
@@ -54,7 +54,7 @@ const testimonials = [
       id: 5,
       name: 'Nefeli Morales',
       position: 'Gerente de Operaciones de EcoBuild',
-      image: '/testimonials/nefeli.webp',
+      image: '/my-portfolio/testimonials/nefeli.webp',
       content: 'Una experiencia transformadora. La metodología y el enfoque práctico han sido fundamentales para el crecimiento de nuestro proyecto.',
       socialLinks: {
         twitter: '#',
@@ -65,7 +65,7 @@ const testimonials = [
       id: 6,
       name: 'Angel Gabriel',
       position: 'CEO de FreshHarvest',
-      image: '/testimonials/angel.webp',
+      image: '/my-portfolio/testimonials/angel.webp',
       content: 'Una experiencia transformadora. La metodología y el enfoque práctico han sido fundamentales para el crecimiento de nuestro proyecto.',
       socialLinks: {
         twitter: '#',
@@ -76,7 +76,7 @@ const testimonials = [
       id: 7,
       name: 'Azucena Garcia',
       position: 'CFO de AquaPure',
-      image: '/testimonials/azucena.webp',
+      image: '/my-portfolio/testimonials/azucena.webp',
       content: 'Una experiencia transformadora. La metodología y el enfoque práctico han sido fundamentales para el crecimiento de nuestro proyecto.',
       socialLinks: {
         twitter: '#',
@@ -87,7 +87,7 @@ const testimonials = [
       id: 8,
       name: 'Armando Paredes',
       position: 'Líder de Proyectos de HealthLink',
-      image: '/testimonials/armando.webp',
+      image: '/my-portfolio/testimonials/armando.webp',
       content: 'Una experiencia transformadora. La metodología y el enfoque práctico han sido fundamentales para el crecimiento de nuestro proyecto.',
       socialLinks: {
         twitter: '#',
@@ -98,7 +98,7 @@ const testimonials = [
       id: 9,
       name: 'Pedro Castillo',
       position: 'Director de Diseño de UrbanTrend',
-      image: '/testimonials/pedro.webp',
+      image: '/my-portfolio/testimonials/pedro.webp',
       content: 'Una experiencia transformadora. La metodología y el enfoque práctico han sido fundamentales para el crecimiento de nuestro proyecto.',
       socialLinks: {
         twitter: '#',
@@ -109,7 +109,7 @@ const testimonials = [
       id: 10,
       name: 'ximena montalvo',
       position: 'Analista Senior de DataSolve',
-      image: '/testimonials/dina.webp',
+      image: '/my-portfolio/testimonials/dina.webp',
       content: 'Una experiencia transformadora. La metodología y el enfoque práctico han sido fundamentales para el crecimiento de nuestro proyecto.',
       socialLinks: {
         twitter: '#',
@@ -120,7 +120,7 @@ const testimonials = [
       id: 11,
       name: 'Pablo López',
       position: 'Gerente de Ventas de AutoMotion',
-      image: '/testimonials/pablo.webp',
+      image: '/my-portfolio/testimonials/pablo.webp',
       content: 'Una experiencia transformadora. La metodología y el enfoque práctico han sido fundamentales para el crecimiento de nuestro proyecto.',
       socialLinks: {
         twitter: '#',
@@ -131,7 +131,7 @@ const testimonials = [
       id: 12,
       name: 'Ventura Garcia',
       position: 'Director de Desarrollo de GreenFuture ',
-      image: '/testimonials/ventura.webp',
+      image: '/my-portfolio/testimonials/ventura.webp',
       content: 'Una experiencia transformadora. La metodología y el enfoque práctico han sido fundamentales para el crecimiento de nuestro proyecto.',
       socialLinks: {
         twitter: '#',
@@ -142,7 +142,7 @@ const testimonials = [
       id: 13,
       name: 'Oliver Perez',
       position: 'Líder de Producto de ByteWave',
-      image: '/testimonials/oliver.webp',
+      image: '/my-portfolio/testimonials/oliver.webp',
       content: 'Una experiencia transformadora. La metodología y el enfoque práctico han sido fundamentales para el crecimiento de nuestro proyecto.',
       socialLinks: {
         twitter: '#',
@@ -153,7 +153,7 @@ const testimonials = [
       id: 14,
       name: 'Luciana Santosz',
       position: 'COO de SkyTravel',
-      image: '/testimonials/luciana.webp',
+      image: '/my-portfolio/testimonials/luciana.webp',
       content: 'Una experiencia transformadora. La metodología y el enfoque práctico han sido fundamentales para el crecimiento de nuestro proyecto.',
       socialLinks: {
         twitter: '#',

@@ -20,10 +20,10 @@ export default function Navbar() {
   }, []);
 
   const navItems = [
-    { name: 'Inicio', href: '/' },
-    { name: 'Servicios', href: '/servicios', scrollTo: 'servicios' },
-    { name: 'Nosotros', href: '/nosotros' },
-    { name: 'Proceso', href: '/proceso' },
+    { name: 'Inicio', href: '/my-portfolio/' },
+    { name: 'Servicios', href: '/my-portfolio/servicios', scrollTo: 'servicios' },
+    { name: 'Nosotros', href: '/my-portfolio/nosotros' },
+    { name: 'Proceso', href: '/my-portfolio/proceso' },
   ];
 
   const handleNavClick = (e, item) => {

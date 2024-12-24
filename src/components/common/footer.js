@@ -38,7 +38,7 @@ export default function Footer() {
       {/* Imagen de fondo */}
       <div className="absolute inset-0 overflow-visible pointer-events-none">
         <Image
-          src="/footer-bg.png"
+          src="/my-portfolio/footer-bg.png"
           alt="Footer Background"
           fill
           className="object-cover opacity-60"
