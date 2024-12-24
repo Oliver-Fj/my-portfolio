@@ -53,7 +53,7 @@ export default function Footer() {
       <div className="relative z-10">
         {/* Sección principal del footer */}
         <div className="container mx-auto px-6 py-12">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {/* Logo y descripción */}
             <div className="space-y-4">
               <Link href="/" className="text-2xl font-bold text-[#5865F2]">

@@ -316,7 +316,7 @@ export default function AboutPage() {
                         whileHover={{ scale: 1.05 }}
                         whileTap={{ scale: 0.95 }}
                         className="px-8 py-4 bg-[#5865F2] text-white rounded-lg font-medium hover:bg-[#4752C4] transition-colors"
-                        onClick={() => window.location.href = '/contacto'}
+                        onClick={() => window.location.href = '/my-portfolio/contacto'}
                     >
                         Conversemos
                     </motion.button>

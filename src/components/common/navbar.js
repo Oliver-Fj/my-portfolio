@@ -51,7 +51,7 @@ export default function Navbar() {
           </Link>
 
           {/* Menú escritorio */}
-          <div className="hidden md:flex items-center gap-10">
+          <div className="hidden md:flex items-center gap-4">
             {navItems.map((item) => (
               <motion.a
                 key={item.name}
